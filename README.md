@@ -33,7 +33,7 @@ But outliers may be valid data: Data from DC is different from data from every o
 "Outliers often stand out in a plot, sometimes reducing the visibility of other data points owing to an extreme scale. Similarly, missing data may surface as a promi- nent gap or zero value in the data."
 
 	2.7 Duplicate or misspelled
-	Duplicate or mis- spelled values may appear adjacent to one another in a sorted list/categorization of variable
+	Duplicate or misspelled values may appear adjacent to one another in a sorted list/categorization of variable
 
 "Although the ‘real’ analysis is just about to start (step 4), John has made dozens of transformations, repeated the process several times, made important discoveries relating to the quality of the data, and made many decisions impacting the quality of the final ‘clean’ data."
 	
@@ -62,13 +62,18 @@ List of Data Smells
 - Some cells are blank as opposed to empty!
 - Data looks suspicious
 - Extreme outliers
+- 
+
 "Li et al.11 outline 41 different types of dirty data, and examine the costs of fixing these errors within different contexts. Kim et al.12 propose a taxon- omy of 33 dirty data types."
 
 
-Mu ̈ller and Freytag13 roughly classify data anomalies into syntactical, semantic, and coverage anomalies.
+Mü̈ller and Freytag13 roughly classify data anomalies into syntactical, semantic, and coverage anomalies.
 - Syntactical anomalies are errors in data format and values. 
 - Semantic anomalies include inconsistencies within or across data sets (e.g. integrity constraint violations, contradictions, duplicates, and invalid tuples). 
 - Coverage anomalies refer to missing or incomplete data.
 
 5. Go ahead and write the story
 =
+
+
+
