@@ -1,5 +1,15 @@
 Data Smells (Work in Progress)
-===========
+=========
+
+
+Authors I should speak to:
+
+Sean Kandel, skandel@stanford.edu
+
+
+
+
+-------------
 
 Steps in verifying whether datasets are credible:
 
